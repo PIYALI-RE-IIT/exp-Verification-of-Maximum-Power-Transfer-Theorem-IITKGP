@@ -39,7 +39,7 @@
 							<br>
 							&nbsp;
 							<p>Repeat the procedure of part (1), with C<sub>s</sub> fixed and R<sub>L</sub> varied. At the point of maximum power check
-							$$R_L = sqrt(R_s^2 + (X_1 + X_2)^2)$$ and V<sub>RL</sub>=V<sub>4.</sub></p>
+							$$R_L=\sqrt(R_s^2 + (X_1 + X_2)^2)$$ and V<sub>RL</sub>=V<sub>4.</sub></p>
 							<br>
 							&nbsp;
 							<p><b>3. When both RL and XL are adjustable:</b> </p>

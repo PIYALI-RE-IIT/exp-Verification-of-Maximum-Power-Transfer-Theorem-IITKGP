@@ -16,8 +16,8 @@
 							<p>&nbsp;This means that if the load reactance(X<sub>L</sub>)&nbsp; is made equal magnitude and opposite in sign to the internal reactance(X<sub>s</sub>), the power transferred is maximum.</p><br>
 							<h2>2. When only R<sub>L</sub> is adjustable: </h2>
 							<p>From equation (1) in section (1), one may write,&nbsp; </p><br>
-<p style="text-align: center;"> $$P = |I^2|*R_L$$
-= $$(V_s^2*R_L)/((R_s+ R_L)^2 +(X_s+ X_L)^2)$$ . . . (3)  </p><br>								
+<p style="text-align: center;"> $$P = |I^2|*R_L$$ 
+<br> = $$(V_s^2*R_L)/((R_s+ R_L)^2 +(X_s+ X_L)^2)$$ . . . (3)  </p><br>								
 							<p>Differentiating the equation (3) w.r.t&nbsp; R<sub>L </sub>and equating to zero, one obtains.&nbsp;&nbsp; </p><br>
 <p style="text-align: center;"> $$R_L = \sqrt(R_s^2+ (X_s+X_L)^2)$$ . . . . . . . . . . . . . . . . . . . (4)
 </p><br>
