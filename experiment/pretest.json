@@ -2,12 +2,12 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "The maximum power is delivered from a source to its load when the load resistance is ______ the source resistance.",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "greater than",
+        "b": "less than",
+        "c": "equal to",
+        "d": "less than or equal to"
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
